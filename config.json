@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepetch",
+        "uuid": 7243062,
+        "checksum": "pxpxel"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
